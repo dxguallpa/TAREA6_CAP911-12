@@ -280,3 +280,15 @@ Para el trazo de la forma de la onda del canal 2, sería:
 
 # VIDEO
 
+# CONCLUSIONES
+
+- Podemos decir que un voltaje alterno es aque cambia de polaridad con cierta rapidéz, por otra parte al hablar de ondas sinusoidales o ondas senos son aquellas que se repiten en intervlos fíjos la implementación de estos conceptos han dado enfasis en el análisis Circuitos de corriente alterna.
+
+- para poder visualizar las gráficas de las ondas en un circuito, la herramienta o el dipositivo que se utiliza es el osciloscopio ddo que atraves de su pantalla se puede visalizar la traza de la señal eléctrica medida.
+
+- El capcitor es un elemento eléctrico que su principal función es guardar o almacenar carga eléctrica y su aplicación en el ambito tecnológico son demasiados abundantes, debido a su estructura interna, su unidad es la capacitancia.
+
+- Un punto importante es que debemos tener en cuenta la relacion que existe en la relacion entre los diferetes componentes en nuestros circuitos como por ejemplo el resultado de las capacitancias totales tiene una resolucion muy difernete a al suma paricla de resistencias que ya se venian desarrollando.
+
+# BIBLIOGRAFÍA
+Floyd, T. L. (2007). Principios de Circuitos Electricos. Mexico: Pearson Educacion. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf
