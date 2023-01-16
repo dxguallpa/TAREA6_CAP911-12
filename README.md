@@ -280,6 +280,8 @@ Para el trazo de la forma de la onda del canal 2, sería:
 
 # VIDEO
 
+https://uespe-my.sharepoint.com/:v:/g/personal/dxguallpa_espe_edu_ec/Ed2M-vBLINRImrkFYWsbyVQB7mh7BLy_PUPBxl4Ry-9BEw?e=LPurmP
+
 # CONCLUSIONES
 
 - Podemos decir que un voltaje alterno es aque cambia de polaridad con cierta rapidéz, por otra parte al hablar de ondas sinusoidales o ondas senos son aquellas que se repiten en intervlos fíjos la implementación de estos conceptos han dado enfasis en el análisis Circuitos de corriente alterna.
